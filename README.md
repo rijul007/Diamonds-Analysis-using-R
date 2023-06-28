@@ -48,6 +48,6 @@ The project employs various data analysis and visualization techniques using R:
 4. There's a positive correlation between carat weight and price for colorless diamonds (D, E, F colors).
 5. For 1.00-1.25 carat Ideal-cut diamonds, prices increase significantly with higher clarity and color grades.
 
-For a detailed view of the analysis and visualizations, you can access the [RPub Document here](https://rpubs.com/).
+For a detailed view of the analysis and visualizations, you can access the [RPub Document here](https://rpubs.com/Rijul-Grover/1217027).
 
 These insights provide valuable information for understanding diamond characteristics and pricing, particularly useful for engagement ring selection.
